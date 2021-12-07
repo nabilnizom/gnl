@@ -3,10 +3,10 @@
 /*                                                        :::      ::::::::   */
 /*   get_next_line_utils.c                              :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: unclebrendi <unclebrendi@student.42.fr>    +#+  +:+       +#+        */
+/*   By: amohd-ni <amohd-ni@student.42kl.edu.my>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
-/*   Created: 2021/12/08 00:13:02 by unclebrendi       #+#    #+#             */
-/*   Updated: 2021/12/08 00:13:06 by unclebrendi      ###   ########.fr       */
+/*   Created: 2021/12/08 00:18:43 by amohd-ni          #+#    #+#             */
+/*   Updated: 2021/12/08 00:18:44 by amohd-ni         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
