@@ -6,7 +6,7 @@
 /*   By: amohd-ni <amohd-ni@student.42kl.edu.my>    +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/12/08 00:18:21 by amohd-ni          #+#    #+#             */
-/*   Updated: 2021/12/08 00:18:23 by amohd-ni         ###   ########.fr       */
+/*   Updated: 2021/12/08 00:46:32 by amohd-ni         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -14,6 +14,7 @@
 # define GET_NEXT_LINE_H
 # include <stddef.h>
 
+char	*get_next_line(int fd);
 char	*ft_strdup(const char *str);
 size_t	ft_strlen(const char *str);
 void	ft_bzero(void *str, size_t n);
